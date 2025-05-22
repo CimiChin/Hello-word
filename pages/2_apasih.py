@@ -1,10 +1,4 @@
 import streamlit as st
-import pandas as pd
-import joblib
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report, accuracy_score
 
-st.set_page_config(page_title="Industry")
-st.title("Industry")
-st.header("Industry")
-
+st.title("📄 Halaman Kedua")
+st.write("Ini adalah konten dari halaman kedua.")
